@@ -12,3 +12,6 @@ Exemplo de consumo de dados via **Mockup**.
 ## Passos para testar localmente
 - Clone este repositorio
 - Abra com VsCode e execute o indes.html com o Live server.
+
+## Print da tela
+![Screenshot](./screenshot.png)
